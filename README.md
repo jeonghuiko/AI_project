@@ -1,4 +1,4 @@
-# AI_project
+# AI_project[inbass@hanyang.ac.kr]
 ## 2024년 
 ---
 ### 한양대학교 산업융합학부 인공지능1
